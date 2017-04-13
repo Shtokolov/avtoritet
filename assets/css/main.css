@@ -4039,7 +4039,7 @@
 		letter-spacing: 0;
 		font-size: 9.5vw;
 		top: 27%;
-		left: 44.5vw;
+		left: 44.5%;
 	}
 
 	.logo-letters > span {
@@ -4094,70 +4094,70 @@
 	}
 
 .top-left-text-underline-container {
-	width: 22vw;
+	width: 22%;
 	height: 6vw;
 	position: absolute;
 	top:18%;
-	left:28.1vw;
+	left:28.1%;
 }
 
 .left-top-text-underline-container {
-	width: 26vw;
+	width: 26%;
 	height: 6vw;
 	position: absolute;
 	top:27.4%;
-	left:14.15vw;
+	left:14.15%;
 }
 
 .left-bottom-text-underline-container {
-	width: 22vw;
+	width: 22%;
 	height: 6vw;
 	position: absolute;
 	top:44%;
-	left:18vw;
+	left:18%;
 }
 
 .bottom-left-text-underline-container {
-	width: 26vw;
+	width: 26%;
 	height: 6vw;
 	position: absolute;
 	top:54.2%;
-	left:24.1vw;
+	left:24.1%;
 }
 
 
 
 
 .top-right-text-underline-container {
-	width: 22vw;
+	width: 22%;
 	height: 6vw;
 	position: absolute;
 	top:18%;
-	left:50vw;
+	left:50%;
 }
 
 .right-top-text-underline-container {
-	width: 29vw;
+	width: 29%;
 	height: 6vw;
 	position: absolute;
 	top:27.2%;
-	left:60vw;
+	left:60%;
 }
 
 .right-bottom-text-underline-container {
-	width: 22vw;
+	width: 22%;
 	height: 6vw;
 	position: absolute;
 	top:44%;
-	left:60vw;
+	left:60%;
 }
 
 .bottom-right-text-underline-container {
-	width: 22vw;
+	width: 22%;
 	height: 6vw;
 	position: absolute;
 	top:54.2%;
-	left:50vw;
+	left:50%;
 }
 
 
